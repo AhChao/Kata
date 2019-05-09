@@ -1,0 +1,10 @@
+C:\Users\steven.chao18\Desktop\Kata\TwoSum\TwoSumTests\obj\Debug\TwoSumTests.csprojResolveAssemblyReference.cache
+C:\Users\steven.chao18\Desktop\Kata\TwoSum\TwoSumTests\bin\Debug\TwoSumTests.dll
+C:\Users\steven.chao18\Desktop\Kata\TwoSum\TwoSumTests\bin\Debug\TwoSumTests.pdb
+C:\Users\steven.chao18\Desktop\Kata\TwoSum\TwoSumTests\bin\Debug\TwoSum.exe
+C:\Users\steven.chao18\Desktop\Kata\TwoSum\TwoSumTests\bin\Debug\TwoSum.pdb
+C:\Users\steven.chao18\Desktop\Kata\TwoSum\TwoSumTests\obj\Debug\TwoSumTests.dll
+C:\Users\steven.chao18\Desktop\Kata\TwoSum\TwoSumTests\obj\Debug\TwoSumTests.pdb
+C:\Users\steven.chao18\Desktop\Kata\TwoSum\TwoSumTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\steven.chao18\Desktop\Kata\TwoSum\TwoSumTests\bin\Debug\TwoSum.exe.config
+C:\Users\steven.chao18\Desktop\Kata\TwoSum\TwoSumTests\obj\Debug\TwoSumTests.csproj.CoreCompileInputs.cache
