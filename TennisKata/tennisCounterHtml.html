@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tennis Counter</title>
+	<script type="text/javascript" src="./tennisCounter.js"></script>
+</head>
+<body>
+	<h1>Tennis Counter</h1>
+	<table style="border:3px #cccccc solid;"  border='1'>
+		<tr>
+			<td>A</td>
+			<td>B</td>
+		</tr>
+		<tr>
+			<td id="playerOneScore">0</td>
+			<td id="playerTwoScore">0</td>
+		</tr>
+		<tr>
+			<td><button onclick="FirstPlayerScore()">+</button></td>
+			<td><button onclick="SecondPlayerScore()">+</button></td>
+		</tr>
+	</table>
+	<button onclick="ResetScore()">reset</button>
+	<h4>Result:</h4><h4 id="matchResult"></h4>
+</body>
+</html>
