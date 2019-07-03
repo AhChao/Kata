@@ -1,0 +1,7 @@
+C:\Users\steven.chao18\Desktop\C# Project\TennisKata\TennisKata\obj\Debug\TennisKata.csprojResolveAssemblyReference.cache
+C:\Users\steven.chao18\Desktop\C# Project\TennisKata\TennisKata\obj\Debug\TennisKata.csproj.CoreCompileInputs.cache
+C:\Users\steven.chao18\Desktop\C# Project\TennisKata\TennisKata\bin\Debug\TennisKata.exe.config
+C:\Users\steven.chao18\Desktop\C# Project\TennisKata\TennisKata\bin\Debug\TennisKata.exe
+C:\Users\steven.chao18\Desktop\C# Project\TennisKata\TennisKata\bin\Debug\TennisKata.pdb
+C:\Users\steven.chao18\Desktop\C# Project\TennisKata\TennisKata\obj\Debug\TennisKata.exe
+C:\Users\steven.chao18\Desktop\C# Project\TennisKata\TennisKata\obj\Debug\TennisKata.pdb
