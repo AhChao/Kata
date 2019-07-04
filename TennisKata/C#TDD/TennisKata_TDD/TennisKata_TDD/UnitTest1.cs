@@ -92,8 +92,8 @@ namespace TennisKata_TDD
         [TestMethod]
         public void Score_3_4_ShouldBe_Player2_Adv()
         {
-            counter.FirstPlayerScore(4);
-            counter.SecondPlayerScore(3);
+            counter.FirstPlayerScore(3);
+            counter.SecondPlayerScore(4);
             Assert.AreEqual(counter.ScoreMsg(), "Player2 Adv");
         }
     }

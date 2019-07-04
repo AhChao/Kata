@@ -31,7 +31,10 @@ namespace TennisKata_TDD
             }
             if (_secondPlayerScore == 4)
             {
-                return "Player2 Won";
+                if (_firstPlayerScore == 3)
+                    return "Player2 Adv";
+                else
+                    return "Player2 Won";
             }
 
             return ScoreString[_firstPlayerScore] + " " + ScoreString[_secondPlayerScore];    
