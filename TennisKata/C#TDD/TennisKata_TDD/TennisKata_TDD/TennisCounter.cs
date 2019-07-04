@@ -23,9 +23,9 @@ namespace TennisKata_TDD
             return "Love All";
         }
 
-        public void FirstPlayerScore()
+        public void FirstPlayerScore(int score)
         {
-            _firstPlayerScore++;
+            _firstPlayerScore += score;
         }
     }
 }
