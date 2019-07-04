@@ -34,5 +34,12 @@ namespace TennisKata_TDD
             counter.FirstPlayerScore(3);
             Assert.AreEqual(counter.ScoreMsg(), "Forty Love");
         }
+
+        [TestMethod]
+        public void Score_4_0_ShouldBe_Player1_Won()
+        {
+            counter.FirstPlayerScore(3);
+            Assert.AreEqual(counter.ScoreMsg(), "Player1 Won");
+        }
     }
 }
