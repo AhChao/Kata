@@ -18,7 +18,15 @@ namespace TennisKata_TDD
         public void Score_1_0_ShouldBe_Fifteen_Love()
         {
             counter.FirstPlayerScore();
-            Assert.AreEqual(counter.ScoreMsg(), "Fifteen_Love");
+            Assert.AreEqual(counter.ScoreMsg(), "Fifteen Love");
+        }
+
+        [TestMethod]
+        public void Score_2_0_ShouldBe_Thirty_Love()
+        {
+            counter.FirstPlayerScore();
+            counter.FirstPlayerScore();
+            Assert.AreEqual(counter.ScoreMsg(), "Thirty Love");
         }
     }
 }

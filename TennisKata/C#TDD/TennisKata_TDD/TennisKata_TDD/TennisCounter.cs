@@ -12,7 +12,7 @@ namespace TennisKata_TDD
 
         public string ScoreMsg()
         {
-            if (_firstPlayerScore == 1) return "Fifteen_Love";
+            if (_firstPlayerScore == 1) return "Fifteen Love";
             return "Love All";
         }
 
