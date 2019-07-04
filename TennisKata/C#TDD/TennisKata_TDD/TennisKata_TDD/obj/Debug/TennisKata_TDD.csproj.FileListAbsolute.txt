@@ -1,0 +1,2 @@
+C:\Users\steven.chao18\source\repos\TennisKata_TDD\TennisKata_TDD\obj\Debug\TennisKata_TDD.csprojResolveAssemblyReference.cache
+C:\Users\steven.chao18\source\repos\TennisKata_TDD\TennisKata_TDD\obj\Debug\TennisKata_TDD.csproj.CoreCompileInputs.cache
