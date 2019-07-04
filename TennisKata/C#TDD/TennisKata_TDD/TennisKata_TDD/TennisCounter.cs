@@ -22,7 +22,7 @@ namespace TennisKata_TDD
             };
             if (_firstPlayerScore == _secondPlayerScore && _firstPlayerScore >= 3) return "Deuce";
             if (_firstPlayerScore == _secondPlayerScore) return ScoreString[_secondPlayerScore] + " All";
-            if (_firstPlayerScore == 4)
+            if (_firstPlayerScore == 4 && _secondPlayerScore <=3)
             {
                 if(_secondPlayerScore == 3)
                     return "Player1 Adv";
@@ -33,7 +33,7 @@ namespace TennisKata_TDD
             {
                 if (_secondPlayerScore - _firstPlayerScore >= 2)
                     return "Player2 Won";
-                else if (_firstPlayerScore == 3)
+                else if (_secondPlayerScore - _firstPlayerScore == 1)
                     return "Player2 Adv";
             }
 
