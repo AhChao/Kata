@@ -21,6 +21,7 @@ namespace TennisKata_TDD
                 {3,"Forty"},
             };
             if (_firstPlayerScore == 0 && _secondPlayerScore == 0) return "Love All";
+            if (_firstPlayerScore == 1 && _secondPlayerScore == 1) return "Fifteen All";
             if (_firstPlayerScore == 4) return "Player1 Won";
              return ScoreString[_firstPlayerScore] + " " + ScoreString[_secondPlayerScore];    
         }
