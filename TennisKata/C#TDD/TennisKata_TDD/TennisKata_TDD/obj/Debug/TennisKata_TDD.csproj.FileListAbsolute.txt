@@ -1,2 +1,15 @@
 C:\Users\steven.chao18\source\repos\TennisKata_TDD\TennisKata_TDD\obj\Debug\TennisKata_TDD.csprojResolveAssemblyReference.cache
 C:\Users\steven.chao18\source\repos\TennisKata_TDD\TennisKata_TDD\obj\Debug\TennisKata_TDD.csproj.CoreCompileInputs.cache
+C:\Users\steven.chao18\Documents\GitHub\Kata\TennisKata\C#TDD\TennisKata_TDD\TennisKata_TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\steven.chao18\Documents\GitHub\Kata\TennisKata\C#TDD\TennisKata_TDD\TennisKata_TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\steven.chao18\Documents\GitHub\Kata\TennisKata\C#TDD\TennisKata_TDD\TennisKata_TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\steven.chao18\Documents\GitHub\Kata\TennisKata\C#TDD\TennisKata_TDD\TennisKata_TDD\bin\Debug\TennisKata_TDD.dll
+C:\Users\steven.chao18\Documents\GitHub\Kata\TennisKata\C#TDD\TennisKata_TDD\TennisKata_TDD\bin\Debug\TennisKata_TDD.pdb
+C:\Users\steven.chao18\Documents\GitHub\Kata\TennisKata\C#TDD\TennisKata_TDD\TennisKata_TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\steven.chao18\Documents\GitHub\Kata\TennisKata\C#TDD\TennisKata_TDD\TennisKata_TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\steven.chao18\Documents\GitHub\Kata\TennisKata\C#TDD\TennisKata_TDD\TennisKata_TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\steven.chao18\Documents\GitHub\Kata\TennisKata\C#TDD\TennisKata_TDD\TennisKata_TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\steven.chao18\Documents\GitHub\Kata\TennisKata\C#TDD\TennisKata_TDD\TennisKata_TDD\obj\Debug\TennisKata_TDD.csprojResolveAssemblyReference.cache
+C:\Users\steven.chao18\Documents\GitHub\Kata\TennisKata\C#TDD\TennisKata_TDD\TennisKata_TDD\obj\Debug\TennisKata_TDD.csproj.CoreCompileInputs.cache
+C:\Users\steven.chao18\Documents\GitHub\Kata\TennisKata\C#TDD\TennisKata_TDD\TennisKata_TDD\obj\Debug\TennisKata_TDD.dll
+C:\Users\steven.chao18\Documents\GitHub\Kata\TennisKata\C#TDD\TennisKata_TDD\TennisKata_TDD\obj\Debug\TennisKata_TDD.pdb

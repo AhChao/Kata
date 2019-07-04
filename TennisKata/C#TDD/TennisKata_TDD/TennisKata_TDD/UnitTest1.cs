@@ -9,7 +9,8 @@ namespace TennisKata_TDD
         [TestMethod]
         public void Score_0_0_ShouldBe_Love_All()
         {
-            Assert.AreEqual(ScoreMsg(),"Love All");
+            TennisCounter counter = new TennisCounter();
+            Assert.AreEqual(counter.ScoreMsg(),"Love All");
         }
     }
 }
