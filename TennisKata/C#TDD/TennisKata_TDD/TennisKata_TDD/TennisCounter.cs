@@ -29,8 +29,12 @@ namespace TennisKata_TDD
                 else
                     return "Player1 Won";
             }
-            
-             return ScoreString[_firstPlayerScore] + " " + ScoreString[_secondPlayerScore];    
+            if (_secondPlayerScore == 4)
+            {
+                return "Player2 Won";
+            }
+
+            return ScoreString[_firstPlayerScore] + " " + ScoreString[_secondPlayerScore];    
         }
 
         public void FirstPlayerScore(int score)
