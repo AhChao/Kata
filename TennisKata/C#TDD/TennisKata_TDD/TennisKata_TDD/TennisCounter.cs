@@ -34,7 +34,7 @@ namespace TennisKata_TDD
             {
                 if (_secondPlayerScore - _firstPlayerScore >= 2)
                     return "Player2 Won";
-                else if (_secondPlayerScore - _firstPlayerScore == 1)
+                else
                     return "Player2 Adv";
             }
 
