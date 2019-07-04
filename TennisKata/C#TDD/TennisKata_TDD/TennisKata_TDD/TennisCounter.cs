@@ -20,6 +20,7 @@ namespace TennisKata_TDD
                 {2,"Thirty"},
                 {3,"Forty"},
             };
+            if (_firstPlayerScore == 3 && _secondPlayerScore == 3) return "Deuce";
             if (_firstPlayerScore == _secondPlayerScore) return ScoreString[_secondPlayerScore] + " All";
             if (_firstPlayerScore == 4) return "Player1 Won";
              return ScoreString[_firstPlayerScore] + " " + ScoreString[_secondPlayerScore];    
