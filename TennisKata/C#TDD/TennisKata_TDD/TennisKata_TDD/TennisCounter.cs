@@ -8,9 +8,17 @@ namespace TennisKata_TDD
 {
     class TennisCounter
     {
+        private int _firstPlayerScore;
+
         public string ScoreMsg()
         {
+            if (_firstPlayerScore == 1) return "Fifteen_Love";
             return "Love All";
+        }
+
+        public void FirstPlayerScore()
+        {
+            _firstPlayerScore++;
         }
     }
 }
