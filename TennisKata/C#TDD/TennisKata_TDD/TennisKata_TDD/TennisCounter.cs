@@ -12,9 +12,14 @@ namespace TennisKata_TDD
 
         public string ScoreMsg()
         {
-            if (_firstPlayerScore == 1) return "Fifteen Love";
-            if (_firstPlayerScore == 2) return "Thirty Love";
-            if (_firstPlayerScore == 3) return "Forty Love";
+            Dictionary<int,string> ScoreString = new Dictionary<int,string>()
+            {
+                {1,"Fifteen"},
+                {2,"Thirty"},
+                {3,"Forty"},
+            };
+            if (_firstPlayerScore >= 1) return ScoreString[_firstPlayerScore] + " Love";
+
             return "Love All";
         }
 
