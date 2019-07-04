@@ -18,6 +18,7 @@ namespace TennisKata_TDD
                 {2,"Thirty"},
                 {3,"Forty"},
             };
+            if (_firstPlayerScore == 4) return "Player1 Won";
             if (_firstPlayerScore >= 1) return ScoreString[_firstPlayerScore] + " Love";
 
             return "Love All";
