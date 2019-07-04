@@ -56,5 +56,13 @@ namespace TennisKata_TDD
             counter.SecondPlayerScore(1);
             Assert.AreEqual(counter.ScoreMsg(), "Fifteen All");
         }
+
+        [TestMethod]
+        public void Score_3_3_ShouldBe_Deuce()
+        {
+            counter.FirstPlayerScore(3);
+            counter.SecondPlayerScore(3);
+            Assert.AreEqual(counter.ScoreMsg(), "Deuce");
+        }
     }
 }
